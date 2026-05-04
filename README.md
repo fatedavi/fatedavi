@@ -11,14 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Laravel+Developer;Backend+Enthusiast;Docker+Learner;Open+to+Work" alt="Typing SVG" />
 </p>
 
----
-
-## 🐾 Davi's Den
-
-<!-- GIF ditarik full layar dari ujung kiri ke kanan -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/67/0d/c9/670dc94d4384ff6b3383f27c61c5491a.gif" width="100%" alt="Running Cat Full Width" />
-</p>
 
 ---
 
@@ -55,4 +47,12 @@
 
 <p align="center">
   ⭐️ From <b>Davi</b> | Keep Learning & Keep Building 🚀
+</p>
+---
+
+## 🐾 Davi's Den
+
+<!-- GIF ditarik full layar dari ujung kiri ke kanan -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/67/0d/c9/670dc94d4384ff6b3383f27c61c5491a.gif" width="100%" alt="Running Cat Full Width" />
 </p>
