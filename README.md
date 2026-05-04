@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 Saya Davi
 
-<!--
-**fatedavi/fatedavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🚀 Fokus Laravel & Docker  
+🎯 Sedang belajar Backend Development
 
-Here are some ideas to get you started:
+## Skill
+- Laravel
+- PHP
+- MySQL
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+## Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight)
