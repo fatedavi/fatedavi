@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Davi</h1>
 <h3 align="center">Web Developer from Indonesia 🇮🇩</h3>
 
@@ -47,7 +47,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:yourmail@email.com">
+  <a href="mailto:achmaddviii@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
