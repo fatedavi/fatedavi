@@ -48,11 +48,11 @@
 <p align="center">
   ⭐️ From <b>Davi</b> | Keep Learning & Keep Building 🚀
 </p>
----
+
 
 ## 🐾 Davi's Den
 
 <!-- GIF ditarik full layar dari ujung kiri ke kanan -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/67/0d/c9/670dc94d4384ff6b3383f27c61c5491a.gif" width="100%" alt="Running Cat Full Width" />
+  <img src="https://i.pinimg.com/originals/0d/7d/eb/0d7deb204bafb62646efbc78cd07421d.gif" width="80%" alt="Running Cat Full Width" />
 </p>
