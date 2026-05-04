@@ -4,7 +4,7 @@
 <p align="center">
   🚀 Focused on Laravel & Docker <br>
   💻 Passionate about Backend Development & MVC Architecture <br>
-  🎯 Building scalable web applications & information systems
+  🎯 Building scalable web applications
 </p>
 
 <p align="center">
@@ -13,44 +13,33 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🐾 Davi's Den
 
-- 🔭 Currently working on **Freelance Web Projects & Information Systems for UMKM**
-- 🌱 Currently learning & researching **Advanced Laravel, MVC, and Smart City Integrations**
-- 💼 Recently developed an **HRMS & Invoicing System** for a corporate client
-- 💬 Ask me about **Laravel, PHP, MySQL, and Backend Logic**
-- ⚡ Fun fact: I love building useful systems that solve real business problems!
+<!-- GIF ditarik full layar dari ujung kiri ke kanan -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/67/0d/c9/670dc94d4384ff6b3383f27c61c5491a.gif" width="100%" alt="Running Cat Full Width" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Laravel-FF9F43?style=for-the-badge&logo=laravel&logoColor=white&labelColor=12182B"/>
+  <img src="https://img.shields.io/badge/PHP-FF9F43?style=for-the-badge&logo=php&logoColor=white&labelColor=12182B"/>
+  <img src="https://img.shields.io/badge/MySQL-FF9F43?style=for-the-badge&logo=mysql&logoColor=white&labelColor=12182B"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF9F43?style=for-the-badge&logo=javascript&logoColor=black&labelColor=12182B"/>
+  <img src="https://img.shields.io/badge/Docker-FF9F43?style=for-the-badge&logo=docker&logoColor=white&labelColor=12182B"/>
 </p>
 
 ---
 
-## 🐾 My Cat Parade
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://cat-parade.vercel.app/" target="_blank">
-    <img src="https://cat-parade.vercel.app/" width="700" height="260" alt="Cat Parade Vercel App"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatedavi&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatedavi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
-</p>
+- 🔭 Currently working on **Freelance Web Projects & Information Systems for UMKM**
+- 🌱 Currently learning & researching **Advanced Laravel, MVC, and System Architecture**
+- 💬 Ask me about **Laravel, PHP, MySQL, and Backend Logic**
+- ⚡ Fun fact: I love building useful systems and exploring new tech!
 
 ---
 
